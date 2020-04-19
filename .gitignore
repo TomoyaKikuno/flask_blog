@@ -1,0 +1,6 @@
+htmlcov/*
+.coverage
+flask_blog/*.db
+.idea/*
+__pycache__
+
